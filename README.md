@@ -25,7 +25,7 @@ El proyecto incluye las siguientes secciones:
 - **JWT (JSON Web Token)**: Un estándar abierto (RFC 7519) que define una forma compacta y autónoma para transmitir información de forma segura entre las partes como un objeto JSON.
 - **SweetAlert**: Una biblioteca de JavaScript para crear fácilmente ventanas modales personalizadas y atractivas.
   <div style="display:flex;flex-direction:column;align-items:center;">
-    <img src="src/assets/img/image.png" alt="Texto alternativo" style="width:200px;">
-    <img src="src/assets/img/image-1.png" alt="Texto alternativo" style="width:200px;">
-    <img src="src/assets/img/image-2.png" alt="Texto alternativo" style="width:200px;">
+    <img src="./neumaticosMelitonVR/src/assets/img/image.png" alt="Texto alternativo" style="width:200px;">
+    <img src="./neumaticosMelitonVR/src/assets/img/image-1.png" alt="Texto alternativo" style="width:200px;">
+    <img src="./neumaticosMelitonVR/src/assets/img/image-2.png" alt="Texto alternativo" style="width:200px;">
 </div>
